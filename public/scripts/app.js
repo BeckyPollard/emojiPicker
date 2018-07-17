@@ -137,6 +137,9 @@ const app = new Vue({
     }
 })
 
+//TODO
 //click emote category button
 //set search to "emote"
 //display emotes
+//
+//add copy-to-clipboard functionality
